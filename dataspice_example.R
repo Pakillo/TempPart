@@ -1,4 +1,5 @@
 library(dataspice)
+
 create_spice()
 
 edit_creators()
@@ -9,3 +10,5 @@ edit_attributes()
 edit_biblio()
 
 write_spice()
+
+build_site()
